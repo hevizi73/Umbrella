@@ -1,6 +1,8 @@
 [submodule "Starsky"]
 	path = Starsky
 	url = https://github.com/hevizi73/Starsky.git
+	branch = CleanTelescope
 [submodule "Hutch"]
 	path = Hutch
 	url = https://github.com/hevizi73/Hutch.git
+	branch = SatelliteDesign
