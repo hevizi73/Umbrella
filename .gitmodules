@@ -1,3 +1,6 @@
 [submodule "Starsky"]
 	path = Starsky
 	url = https://github.com/hevizi73/Starsky.git
+[submodule "Hutch"]
+	path = Hutch
+	url = https://github.com/hevizi73/Hutch.git
