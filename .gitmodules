@@ -1,0 +1,3 @@
+[submodule "Starsky"]
+	path = Starsky
+	url = https://github.com/hevizi73/Starsky.git
